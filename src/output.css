@@ -737,11 +737,6 @@ video {
   background-color: rgb(6 182 212 / var(--tw-bg-opacity));
 }
 
-.bg-cyan-600 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(8 145 178 / var(--tw-bg-opacity));
-}
-
 .bg-pink-500 {
   --tw-bg-opacity: 1;
   background-color: rgb(236 72 153 / var(--tw-bg-opacity));
